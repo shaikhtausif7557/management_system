@@ -58,13 +58,13 @@ python manage.py runserver
 
 **Usage:**
 
-** Access the admin panel at /admin to manage users and projects.
-Use the API endpoints to interact with clients and projects.
-Log in to view and manage your assigned projects.
-API Endpoints
-GET /clients/: List all clients
-POST /clients/: Create a new client
-GET /projects/: List all projects
-POST /projects/: Create a new project
-GET /users/: List all users
-**
+** Access the admin panel at /admin to manage users and projects.**
+**Use the API endpoints to interact with clients and projects.**
+**Log in to view and manage your assigned projects.**
+**API Endpoints**
+**GET /clients/: List all clients**
+**POST /clients/: Create a new client**
+**GET /projects/: List all projects**
+**POST /projects/: Create a new project**
+**GET /users/: List all users**
+
